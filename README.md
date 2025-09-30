@@ -6,6 +6,8 @@ Performed EDA with histograms and scatter plots.
 
 Encoded categorical column (Gender) and selected numerical features.
 
+scaled and normalized features using Standerd scaler
+
 Elbow Method was used to determine the best number of clusters.
 
 K-Means applied with the chosen k and clusters assigned to each customer.
