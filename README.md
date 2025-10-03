@@ -15,3 +15,5 @@ K-Means applied with the chosen k and clusters assigned to each customer.
 Visualized clusters using PCA (2D projection).
 
 Evaluated clustering using the Silhouette Score to check cluster quality.
+
+Saved the updated dataset with name mall_customers_clusters.csv
